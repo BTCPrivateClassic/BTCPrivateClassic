@@ -20,11 +20,14 @@ blockchain has reached a significant size.
   <img src="doc/imgs/zcashd_screen1.gif" height="500">
 </p>
 
-Why is BTCPrivate Classic?
+Why BTCPrivate Classic?
 ---------------------------
-Inactive chain the development is for years under construction (for the community its a blackbox whats happening).
-When BTCP comes alive before the BTCPrivate Classic development is completed this project will be stopped
+- The current chain is inactive for more than 3 years
+- Status developmentproces is unclear (for the community its a blackbox whats really happening).
 
+What will happen if BTCP comes alive before BTCPrivate Classic is live?
+-----------------------------------------------------------------------
+- BTCPrivate Classic development will be stopped
 
 What is BTCPrivate Classic project planning?
 --------------------------------------------
