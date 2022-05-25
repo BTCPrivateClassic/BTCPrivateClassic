@@ -42,7 +42,8 @@ Fase 1 BTCPrivate Classic v1.0.0 development
 
 Fase 2 Define distribution strategy
 - 4 : Analyse BTCP chaindata (adresses and amount) - status not ready
-- 5 : Create strategy how to deal with btcp holdings and how to distribute. BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic (exclude the assholes)
+- 5 : Create strategy how to deal with btcp holdings and how to distribute. BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic 
+      (fraud addresses will be excluded, the analyse from BTCP project will be used)
 - 6 : Distribution on test server environment - status not ready
 - 7 : Verify distribution - status not ready
 
