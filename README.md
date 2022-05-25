@@ -28,7 +28,7 @@ Why BTCPrivate Classic?
 What will happen if BTCP is set live before BTCPrivate Classic?
 ---------------------------------------------------------------------------
 - BTCPrivate Classic development will be stopped.
-- The intention is not to replace BTCP but to serve as a backup in the case thst the BTCP development is delayed again for another
+- The intention is not to replace BTCP but to serve as a backup in the case the BTCP development is delayed again for another ? period
 
 What is BTCPrivate Classic project planning?
 --------------------------------------------
