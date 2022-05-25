@@ -22,7 +22,18 @@ blockchain has reached a significant size.
 
 What is BTCPrivate Classic project planning?
 --------------------------------------------
-- Create BTCPrivate Classic v1, based on Zcash latest stable release
+
+Fase 1 Create BTCPrivate Classic v1
+- 1 : Create BTCPrivate Classic v1, based on Zcash latest stable release (1:1) - status not ready
+- 2 : Deploy BTCPrivate Classic v1 on local server environment - status not ready
+- 3 : Test BTCPrivate Classic v1 on local server environment- status not ready
+- 4 : Analyse BTCP chain (adresses and amount) - status not ready
+- 5 : Create strategy how to deal with btcp holdings and how to distribute - status not ready
+- 7 : Deploy BTCPrivate Classic v1 on remote server environment - status not ready
+- 8 : Test BTCPrivate Classic v1 on remote server environment - status not ready
+
+
+
 
 #### :lock: Security Warnings
 
