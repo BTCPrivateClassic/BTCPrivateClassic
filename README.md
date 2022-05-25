@@ -25,7 +25,7 @@ blockchain has reached a significant size.
 See important security warnings on the
 [Security Information page](https://z.cash/support/security/).
 
-**Zcash is experimental and a work in progress.** Use it at your own risk.
+**BTCPrivate Classic is experimental and a work in progress.** Use it at your own risk.
 
 ####  :ledger: Deprecation Policy
 
@@ -36,17 +36,16 @@ height.
 
 ## Getting Started
 
-Please see our [user guide](https://zcash.readthedocs.io/en/latest/rtd_pages/rtd_docs/user_guide.html) for joining the main Zcash network.
+Please see our [user guide](https://btcpc.readthedocs.io/en/latest/rtd_pages/rtd_docs/user_guide.html) for joining the main BTCPrivate Classic network.
 
 ### Need Help?
 
-* :blue_book: See the documentation at the [ReadTheDocs](https://btcprivateclassic.readthedocs.io)
+* :blue_book: See the documentation at the [ReadTheDocs](https://btcpc.readthedocs.io)
   for help and more information.
-* :incoming_envelope: Ask for help on the [BTCPrivate Classic](https://forum.z.cash/) forum.
+* :incoming_envelope: Ask for help on the [BTCPrivate Classic](https://forum.btcpc/) forum.
 * :speech_balloon: Join our community on [Discord](https://discordapp.com/invite/PhJY6Pm)
 
-Participation in the Zcash project is subject to a
-[Code of Conduct](code_of_conduct.md).
+Participation in the BTCPrivate Classic project is currently not possible.
 
 ### Building
 
