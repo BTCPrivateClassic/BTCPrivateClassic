@@ -1,4 +1,4 @@
-BTCPPrivate Classic 1.0.0 (under construction)
+BTCPrivate Classic 1.0.0 (under construction)
 <img align="right" width="120" height="80" src="doc/imgs/logo1.png">
 ===========
 
