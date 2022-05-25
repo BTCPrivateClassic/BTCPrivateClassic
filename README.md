@@ -36,14 +36,13 @@ What is BTCPrivate Classic project planning?
 --------------------------------------------
 
 Fase 1 BTCPrivate Classic v1.0.0 development
-- 1 : Create BTCP Classic v1, based on Zcash latest stable release (1:1) - status not ready
+- 1 : Create BTCP Classic v1, based on Zcash latest stable release v5.0.0 (1:1) - status not ready
 - 2 : Get running BTCP Classic v1 on test server environment - status not ready
 - 3 : Test BTCP Classic v1 on test server environment- status not ready
 
 Fase 2 Define distribution strategy
 - 4 : Analyse BTCP chaindata (adresses and amount) - status not ready
-- 5 : Create strategy how to deal with btcp holdings and how to distribute - status not ready
-      BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic (exclude the assholes)
+- 5 : Create strategy how to deal with btcp holdings and how to distribute. BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic (exclude the assholes)
 - 6 : Distribution on test server environment - status not ready
 - 7 : Verify distribution - status not ready
 
