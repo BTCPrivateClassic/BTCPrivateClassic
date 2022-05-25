@@ -40,7 +40,7 @@ Tell us what happens instead including any noticeable error output (any messages
 displayed on-screen when e.g. a crash occurred)
 
 ### The version of BTCPrivate Classic you were using:
-Run `zcashd --version` to find out
+Run `btcpcd --version` to find out
 
 ### Machine specs:
 - OS name + version:
