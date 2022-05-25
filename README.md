@@ -20,6 +20,10 @@ blockchain has reached a significant size.
   <img src="doc/imgs/zcashd_screen.gif" height="500">
 </p>
 
+What is BTCPrivate Classic project planning?
+--------------------------------------------
+- Create BTCPrivate Classic v1, based on Zcash latest stable release
+
 #### :lock: Security Warnings
 
 See important security warnings on the
