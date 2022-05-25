@@ -40,9 +40,9 @@ Please see our [user guide](https://zcash.readthedocs.io/en/latest/rtd_pages/rtd
 
 ### Need Help?
 
-* :blue_book: See the documentation at the [ReadTheDocs](https://zcash.readthedocs.io)
+* :blue_book: See the documentation at the [ReadTheDocs](https://btcprivateclassic.readthedocs.io)
   for help and more information.
-* :incoming_envelope: Ask for help on the [Zcash](https://forum.z.cash/) forum.
+* :incoming_envelope: Ask for help on the [BTCPrivate Classic](https://forum.z.cash/) forum.
 * :speech_balloon: Join our community on [Discord](https://discordapp.com/invite/PhJY6Pm)
 
 Participation in the Zcash project is subject to a
@@ -50,14 +50,14 @@ Participation in the Zcash project is subject to a
 
 ### Building
 
-Build Zcash along with most dependencies from source by running the following command:
+Build BTCPrivate Classic along with most dependencies from source by running the following command:
 
 ```
-./zcutil/build.sh -j$(nproc)
+./btcpcutil/build.sh -j$(nproc)
 ```
 
-Currently, Zcash is only officially supported on Debian and Ubuntu. See the
-[Debian / Ubuntu build](https://zcash.readthedocs.io/en/latest/rtd_pages/Debian-Ubuntu-build.html)
+Currently, BTCPrivate Classic is only officially supported on Debian and Ubuntu. See the
+[Debian / Ubuntu build](https://btcpc.readthedocs.io/en/latest/rtd_pages/Debian-Ubuntu-build.html)
 for detailed instructions.
 
 License
