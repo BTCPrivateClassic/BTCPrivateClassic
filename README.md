@@ -5,14 +5,14 @@ BTCPPrivate Classic 1.0.0
 What is BTCPrivate Classic?
 ---------------------------
 
-[BTCPrivate Classic](https://z.cash/) is an implementation of the "Zerocash" protocol.
-Based on Bitcoin's code, Zcash intends to offer a far higher standard of privacy
+[BTCPrivate Classic](https://btcprivateclassic/) is an implementation of the "Zerocash" protocol.
+Based on Zcash's code, BTCPrivate Classic intends to offer a standard of privacy
 through a sophisticated zero-knowledge proving scheme that preserves
 confidentiality of transaction metadata. More technical details are available
 in our [Protocol Specification](https://zips.z.cash/protocol/protocol.pdf).
 
-This software is the Zcash client. It downloads and stores the entire history
-of Zcash transactions; depending on the speed of your computer and network
+This software is the BTCPrivate Classic client. It downloads and stores the entire history
+of BTCPrivate Classic transactions; depending on the speed of your computer and network
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
