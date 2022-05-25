@@ -20,21 +20,29 @@ blockchain has reached a significant size.
   <img src="doc/imgs/zcashd_screen1.gif" height="500">
 </p>
 
+Why is BTCPrivate Classic?
+---------------------------
+Inactive chain the development is for years under construction (for the community its a blackbox whats happening).
+When BTCP comes alive before the BTCPrivate Classic development is completed this project will be stopped
+
+
 What is BTCPrivate Classic project planning?
 --------------------------------------------
 
-Fase 1 Development BTCPrivate Classic v1
+Fase 1 BTCPrivate Classic v1.0.0 development
 - 1 : Create BTCP Classic v1, based on Zcash latest stable release (1:1) - status not ready
 - 2 : Get running BTCP Classic v1 on local server environment - status not ready
 - 3 : Test BTCP Classic v1 on local server environment- status not ready
+
+Fase 2 Define distribution strategy
 - 4 : Analyse BTCP chaindata (adresses and amount) - status not ready
 - 5 : Create strategy how to deal with btcp holdings and how to distribute - status not ready
-- 7 : Deploy BTCP Classic v1 on remote server environment - status not ready
-- 8 : Test BTCP Classic v1 on remote server environment - status not ready
+- 6 : Distribution on local server environment - status not ready
+- 7 : Verify distribution - status not ready
 
-Fase 2 Development BTCPrivate Classic v1.0.1
-- 1 : Implement BTCP specifics in BTCP Classic - status not ready
-- 2 : Test BTCP Classic v1 on remote server environment - status not ready
+Fase 3 BTCPrivate Classic v1.0.0 in production
+- 8 : Get running BTCP Classic v1.0.2 on remote server environment - status not ready
+- 9 : Distribution on remote server environment - status not ready
 
 #### :lock: Security Warnings
 
