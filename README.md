@@ -16,8 +16,7 @@ of BTCPrivate Classic transactions; depending on the speed of your computer and 
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
-BTCPrivate Classic development is not related to BTCP. 
-BTCP owners will get 1:1 BTCP Classic coins.
+BTCPrivate Classic development is not related to BTCP.
 
 <p align="center">
   <img src="doc/imgs/zcashd_screen1.gif" height="500">
@@ -44,6 +43,7 @@ Fase 1 BTCPrivate Classic v1.0.0 development
 Fase 2 Define distribution strategy
 - 4 : Analyse BTCP chaindata (adresses and amount) - status not ready
 - 5 : Create strategy how to deal with btcp holdings and how to distribute - status not ready
+      BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic, how to deal with the .. is open
 - 6 : Distribution on test server environment - status not ready
 - 7 : Verify distribution - status not ready
 
