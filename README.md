@@ -16,7 +16,8 @@ of BTCPrivate Classic transactions; depending on the speed of your computer and 
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
-BTCPrivate Classic development is not related to BTCP.
+BTCPrivate Classic development is not related to BTCP. 
+BTCP owners will get 1:1 BTCP Classic coins.
 
 <p align="center">
   <img src="doc/imgs/zcashd_screen1.gif" height="500">
