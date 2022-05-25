@@ -27,7 +27,8 @@ Why BTCPrivate Classic?
 ---------------------------
 - BTCP is inactive for more than 3 years and its unclear if it ever will be set live again.
 - No communication about the development status (for the community its a blackbox whats really happening).
-- No roadmap en lack of vision
+- No roadmap and lack of vision
+- No projectmanagement (no timelines, commitment etc..)
 
 What will happen if BTCP is set live before BTCPrivate Classic?
 ---------------------------------------------------------------------------
