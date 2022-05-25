@@ -44,7 +44,7 @@ Fase 2 Define distribution strategy
 - 6 : Distribution on local server environment - status not ready
 - 7 : Verify distribution - status not ready
 
-Fase 3 BTCPrivate Classic v1.0.0 in production
+Fase 3 BTCPrivate Classic v1.0.0 live
 - 8 : Get running BTCP Classic v1.0.2 on remote server environment - status not ready
 - 9 : Distribution on remote server environment - status not ready
 
