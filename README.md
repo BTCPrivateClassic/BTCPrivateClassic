@@ -1,5 +1,5 @@
 BTCPPrivate Classic 1.0.0
-<img align="right" width="120" height="80" src="doc/imgs/logo.png">
+<img align="right" width="120" height="80" src="doc/imgs/logo1.png">
 ===========
 
 What is BTCPrivate Classic?
@@ -17,7 +17,7 @@ connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
 <p align="center">
-  <img src="doc/imgs/zcashd_screen.gif" height="500">
+  <img src="doc/imgs/zcashd_screen1.gif" height="500">
 </p>
 
 What is BTCPrivate Classic project planning?
