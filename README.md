@@ -5,7 +5,7 @@ BTCPPrivate Classic 1.0.0
 What is BTCPrivate Classic?
 ---------------------------
 
-[Zcash](https://z.cash/) is an implementation of the "Zerocash" protocol.
+[BTCPrivate Classic](https://z.cash/) is an implementation of the "Zerocash" protocol.
 Based on Bitcoin's code, Zcash intends to offer a far higher standard of privacy
 through a sophisticated zero-knowledge proving scheme that preserves
 confidentiality of transaction metadata. More technical details are available
