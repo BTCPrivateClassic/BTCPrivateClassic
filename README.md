@@ -22,7 +22,7 @@ blockchain has reached a significant size.
 
 Why BTCPrivate Classic?
 ---------------------------
-- The current chain is inactive for more than 3 years
+- BTCP is inactive for more than 3 years and its unclear if it ever will be set live again.
 - Status developmentproces is unclear (for the community its a blackbox whats really happening).
 
 What will happen if BTCP comes alive before BTCPrivate Classic is live?
