@@ -16,6 +16,8 @@ of BTCPrivate Classic transactions; depending on the speed of your computer and 
 connection, the synchronization process could take a day or more once the
 blockchain has reached a significant size.
 
+BTCPrivate Classic is not related to BTCP.
+
 <p align="center">
   <img src="doc/imgs/zcashd_screen1.gif" height="500">
 </p>
