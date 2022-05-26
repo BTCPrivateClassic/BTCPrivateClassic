@@ -46,11 +46,11 @@ What will happen if BTCP is active before BTCPrivate Classic project finished?
 
 What is BTCPrivate Classic project planning?
 --------------------------------------------
-Fase 1 Deployment ZCash v5.0.0 development
+Fase 1 Preparing develop en test environment
 - 1 : Get development and test environment up and running - status not ready
-- 1 : Get Zcash latest stable release v5.0.0 working and deploy on development environment- status not ready
-- 2 : Create scripts for some basic testing - status not ready
-- 3 : Test ZCash on testserver environment  - status not ready
+- 1 : Deployment Zcash latest stable release v5.0.0 (as it is) test environment- status not ready
+- 2 : Create some basic testscripts - status not ready
+- 3 : Test ZCash on the test environment  - status not ready
 
 Fase 2 Development BTCPrivate Classic v1.0.0
 - 1 : Create BTCP Classic v1, based on Zcash latest stable release v5.0.0 (port code 1:1) - status not ready
