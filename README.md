@@ -46,34 +46,34 @@ What will happen if BTCP is active before BTCPrivate Classic project finished?
 
 What is BTCPrivate Classic project planning?
 --------------------------------------------
-Fase 1 Preparing develop en test environment
+Fase 1 Preparing for developing and testing
 - 1 : Get development and test environment up and running - status not ready
 - 1 : Deployment Zcash latest stable release v5.0.0 (as it is) test environment- status not ready
 - 2 : Create some basic testscripts - status not ready
 - 3 : Test ZCash on the test environment  - status not ready
 
-Fase 2 Development BTCPrivate Classic v1.0.0
+Fase 2 Create BTCPrivate Classic v1.0.0
 - 1 : Create BTCP Classic v1, based on Zcash latest stable release v5.0.0 (port code 1:1) - status not ready
 - 2 : Get running BTCP Classic v1 on test server environment - status not ready
 - 3 : Create testscripts and documentation - status not ready
 - 4 : Test BTCP Classic v1 on test server environment- status not ready
 
-Fase 3 Analyse and define airdrop strategy
+Fase 3 Define airdrop strategy
 - 5 : Analyse BTCP blockchain data (adresses and holdings just before snapshot) - status not ready
 - 6 : Create strategy how to deal with btcp holdings and how to distribute. BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic 
       (fraud addresses will be excluded, the analyse from BTCP project will be used) - status not ready
 - 7 : Distribution on test server environment - status not ready
 - 8 : Verify distribution - status not ready
 
-Fase 4 Review and documentation BTCPrivate Classic v1.0.0
+Fase 4 Review and documentation
 - 9 : Create test documentation - status not ready
 - 10 : Review code and distribution - status not ready
 
-Fase 5 Deployment BTCPrivate Classic v1.0.0 production
+Fase 5 Set BTCPrivate Classic live (expect no exchanges)
 - 11 : Deployment BTCP Classic v1.0.0 on production server environment - status not ready
 - 12 : Distribution BTCP Classic coins - status not ready
 
-Fase 6 Development BTCPrivate Classic v1.0.1
+Fase 6 Create BTCPrivate Classic v1.0.1
 - 13 : Add BTCP specific features
 
 #### :lock: Security Warnings
