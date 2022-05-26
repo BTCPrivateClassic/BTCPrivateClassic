@@ -69,8 +69,8 @@ Fase 4 Review and documentation
 - 9 : Create test documentation - status not ready
 - 10 : Review code and distribution - status not ready
 
-Fase 5 Set BTCPrivate Classic live (expect no exchanges)
-- 11 : Deployment BTCP Classic v1.0.0 on production server environment - status not ready
+Fase 5 Set BTCPrivate Classic live (how to exclude exchanges?)
+- 11 : Deployment BTCP Classic v1.0.0 on production server - status not ready
 - 12 : Distribution BTCP Classic coins - status not ready
 
 Fase 6 Create BTCPrivate Classic v1.0.1
