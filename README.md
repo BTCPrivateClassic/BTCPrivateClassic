@@ -29,11 +29,11 @@ Why BTCPrivate Classic?
 - Poor communication about the development status (for the community its a blackbox whats really happening).
 - No roadmap and lack of vision
 - Poor projectmanagement (no timelines, commitment etc..)
+- The intention is not to replace BTCP but to serve as a working alternative in the case the BTCP development will be killed or delayed again for another ? period
 
 What will happen if BTCP is set live before BTCPrivate Classic?
 ---------------------------------------------------------------------------
 - BTCPrivate Classic development will be stopped.
-- The intention is not to replace BTCP but to serve as a backup in the case the BTCP development is delayed again for another ? period
 
 What is BTCPrivate Classic project planning?
 --------------------------------------------
@@ -54,9 +54,9 @@ Fase 3 Review
 - 8 : Creat documentation
 - 9 : Review v1.0.0
 
-Fase 3 BTCPrivate Classic v1.0.0 live
-- 8 : Get running BTCP Classic v1.0.2 on production server environment - status not ready
-- 9 : Distribution on production server environment - status not ready
+Fase 4 BTCPrivate Classic v1.0.0 live
+- 10 : Get running BTCP Classic v1.0.2 on production server environment - status not ready
+- 11 : Distribution on production server environment - status not ready
 
 #### :lock: Security Warnings
 
