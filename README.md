@@ -30,6 +30,16 @@ Why BTCPrivate Classic?
 - No roadmap and lack of vision
 - Poor projectmanagement (no timelines, commitment etc..)
 
+When will BTCPrivate Classic project start?
+--------------------------------------------
+- BTCPrivate Classic development will start if the current development activities have not resulted in running product 01-aug-2022.
+
+Who does the BTCPrivate Classic development?
+--------------------------------------------
+- Senior software developer with the nescesarry programming skills (C, C#, Java, UNix, Shell, Web) but no blockchain coding experience.
+(porting Zcash tot BTCP Classic will give insight in the internals). But most important is that we not should think this is all rocketscience
+because in the end its programma code.
+
 What will happen if BTCP is active before BTCPrivate Classic project finished?
 ------------------------------------------------------------------------------
 - BTCPrivate Classic development will be stopped.
