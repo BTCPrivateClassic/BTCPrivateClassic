@@ -38,7 +38,7 @@ What is BTCPrivate Classic project planning?
 --------------------------------------------
 
 Fase 1 Development BTCPrivate Classic v1.0.0
-- 1 : Create BTCP Classic v1, based on Zcash latest stable release v5.0.0 (1:1) - status not ready
+- 1 : Create BTCP Classic v1, based on Zcash latest stable release v5.0.0 (port code 1:1) - status not ready
 - 2 : Get running BTCP Classic v1 on test server environment - status not ready
 - 3 : Create testscripts and documentation - status not ready
 - 4 : Test BTCP Classic v1 on test server environment- status not ready
