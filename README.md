@@ -37,25 +37,29 @@ What will happen if BTCP is set live before BTCPrivate Classic?
 What is BTCPrivate Classic project planning?
 --------------------------------------------
 
-Fase 1 BTCPrivate Classic v1.0.0 development
+Fase 1 Development BTCPrivate Classic v1.0.0
 - 1 : Create BTCP Classic v1, based on Zcash latest stable release v5.0.0 (1:1) - status not ready
 - 2 : Get running BTCP Classic v1 on test server environment - status not ready
-- 3 : Test BTCP Classic v1 on test server environment- status not ready
+- 3 : Create testscripts and documentation - status not ready
+- 4 : Test BTCP Classic v1 on test server environment- status not ready
 
-Fase 2 Define distribution strategy
-- 4 : Analyse BTCP chaindata (adresses and amount) - status not ready
-- 5 : Create strategy how to deal with btcp holdings and how to distribute. BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic 
+Fase 2 Analyse and define airdrop strategy
+- 5 : Analyse BTCP blockchain data (adresses and holdings just before snapshot) - status not ready
+- 6 : Create strategy how to deal with btcp holdings and how to distribute. BTCP holders will get an airdrop 1:1 BTCP - BTCP Classic 
       (fraud addresses will be excluded, the analyse from BTCP project will be used) - status not ready
-- 6 : Distribution on test server environment - status not ready
-- 7 : Verify distribution - status not ready
+- 7 : Distribution on test server environment - status not ready
+- 8 : Verify distribution - status not ready
 
-Fase 3 Review
-- 8 : Creat documentation
-- 9 : Review v1.0.0
+Fase 3 Review and documentation BTCPrivate Classic v1.0.0
+- 9 : Create test documentation - status not ready
+- 10 : Review code and distribution - status not ready
 
-Fase 4 BTCPrivate Classic v1.0.0 live
-- 10 : Get running BTCP Classic v1.0.2 on production server environment - status not ready
-- 11 : Distribution on production server environment - status not ready
+Fase 4 Deployment BTCPrivate Classic v1.0.0 production
+- 11 : Deployment BTCP Classic v1.0.0 on production server environment - status not ready
+- 12 : Distribution BTCP Classic coins - status not ready
+
+Fase 5 Development BTCPrivate Classic v1.0.1
+- 13 : Add BTCP specific features
 
 #### :lock: Security Warnings
 
