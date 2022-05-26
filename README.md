@@ -30,8 +30,8 @@ Why BTCPrivate Classic?
 - No roadmap and lack of vision
 - Poor projectmanagement (no timelines, commitment etc..)
 
-What will happen if BTCP is set live before BTCPrivate Classic?
----------------------------------------------------------------------------
+What will happen if BTCP is active before BTCPrivate Classic project finished?
+------------------------------------------------------------------------------
 - BTCPrivate Classic development will be stopped.
 
 What is BTCPrivate Classic project planning?
